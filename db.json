@@ -1,0 +1,68 @@
+{
+  "billGenerateData": [
+    {
+      "id": "7189",
+      "name": "tyy",
+      "mobileNo": "64774",
+      "address": "Jharsa village, sector 39, Gurugram, Haryana",
+      "billingdate": "2024-03-19",
+      "itemName": "tryruu",
+      "quantity": 1,
+      "price": "79393"
+    },
+    {
+      "id": "38a6",
+      "name": "kavita bisht",
+      "mobileNo": "6777",
+      "address": "Jharsa village, sector 39, Gurugram, Haryana",
+      "billingdate": "2024-03-04",
+      "itemName": "creem",
+      "quantity": "10",
+      "price": "20"
+    },
+    {
+      "id": "19c8",
+      "name": "ytuur",
+      "mobileNo": "64574",
+      "address": "Jharsa village, sector 39, Gurugram, Haryana",
+      "billingdate": "2024-03-12",
+      "itemName": "jeans",
+      "quantity": "5",
+      "price": "10"
+    },
+    {
+      "id": "fdfc",
+      "name": "fg",
+      "mobileNo": "56",
+      "address": "Jharsa village, sector 39, Gurugram, Haryana",
+      "billingdate": "2024-03-20",
+      "itemName": "5",
+      "quantity": "5",
+      "price": "50",
+      "grandTotal": 270
+    },
+    {
+      "id": "4cd9",
+      "name": "Himanshu Rai",
+      "mobileNo": "08736994487",
+      "address": "E 84 Lane No 4 New Ashok Nagar New Delhi",
+      "billingdate": "2024-03-28",
+      "itemName": "jeens",
+      "quantity": 1,
+      "price": "50",
+      "grandTotal": 50
+    },
+    {
+      "id": "2958",
+      "name": "ertyu",
+      "mobileNo": "7410852",
+      "address": "PARSIA",
+      "billingdate": "2024-03-15",
+      "itemName": "wertgyhuj",
+      "quantity": 1,
+      "price": "741",
+      "grandTotal": 741
+    }
+  ],
+  "signUpData": []
+}
